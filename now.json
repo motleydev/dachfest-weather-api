@@ -1,0 +1,6 @@
+{
+    "env": {
+      "GOOGLE": "@google",
+      "DARKSKY": "@darksky"
+    }
+  }
